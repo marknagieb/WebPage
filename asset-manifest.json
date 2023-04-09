@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/marknagieb/WebPage/static/css/main.923ad1cb.css",
+    "main.js": "/marknagieb/WebPage/static/js/main.14991aa2.js",
+    "static/media/video-1.mp4": "/marknagieb/WebPage/static/media/video-1.c6c328d1709439f856a0.mp4",
+    "static/media/img-2.jpg": "/marknagieb/WebPage/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/marknagieb/WebPage/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/marknagieb/WebPage/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/marknagieb/WebPage/index.html",
+    "main.923ad1cb.css.map": "/marknagieb/WebPage/static/css/main.923ad1cb.css.map",
+    "main.14991aa2.js.map": "/marknagieb/WebPage/static/js/main.14991aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923ad1cb.css",
+    "static/js/main.14991aa2.js"
+  ]
+}
